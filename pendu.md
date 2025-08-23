@@ -1,0 +1,4 @@
+-pouvoir charger des thèmes de quiz spécifique
+-changer/choisir/créer un joueur et faire des scores
+-mode battle 2j - 3j - 4j
+-ajouter des son de pendu
